@@ -1,3 +1,4 @@
 new txt
 test for --amend
 test for git fetch
+test for git tag
